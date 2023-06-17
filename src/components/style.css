@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter';
+}
+.container{
+ 
+    width: 40%;
+    height: 500px;
+    display:block;
+    margin: 100px auto;
+}
+h1{
+    font-size: 50px;
+}
+input{
+    /* color: white; */
+    border: none;
+    border-bottom: 1px solid white;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 20px;
+    padding: 10px;
+    height: 30px;
+    width: 100%;
+    margin: 1rem;
+}
+button{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    padding: 10px 60px;
+    margin: 2rem;
+    cursor: pointer;
+    border-radius: 5px;
+}
+p{
+    font-size: 22px;
+    padding-left: 20px;
+}
